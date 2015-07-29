@@ -1,0 +1,14 @@
+{
+  "name": "antineutron-graphicsCardFacts",
+  "version": "0.1.0",
+  "author": "antineutron",
+  "summary": "Detects installed graphics cards and provides useful facts about each one",
+  "license": "Apache 2.0",
+  "source": "https://github.com/antineutron/puppet-graphicsCardFacts",
+  "project_page": null,
+  "issues_url": "https://github.com/antineutron/puppet-graphicsCardFacts/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
