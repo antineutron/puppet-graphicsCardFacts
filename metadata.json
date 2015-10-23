@@ -1,5 +1,5 @@
 {
-  "name": "antineutron-graphicsCardFacts",
+  "name": "antineutron-graphics_card_facts",
   "version": "0.1.0",
   "author": "antineutron",
   "summary": "Detects installed graphics cards and provides useful facts about each one",

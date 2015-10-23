@@ -1,10 +1,10 @@
-# graphicsCardFacts
+# graphics_card_facts
 
 #### Table of Contents
 
 1. [Overview](#overview)
 2. [Module Description - What the module does and why it is useful](#module-description)
-3. [Setup - The basics of getting started with graphicsCardFacts](#setup)
+3. [Setup - The basics of getting started with graphics_card_facts](#setup)
 4. [Usage - Configuration options and additional functionality](#usage)
 5. [Limitations - OS compatibility, etc.](#limitations)
 6. [Development - Guide for contributing to the module](#development)
@@ -28,7 +28,7 @@ This module is used to provide facts for each installed graphics card as follows
 
 * Install the module
 
-### What graphicsCardFacts affects
+### What graphics_card_facts affects
 
 Nothing on the system is affected by this module, it provides facts only.
 
